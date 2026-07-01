@@ -61,16 +61,6 @@ Gosto de unir teoria e prática, aplicando no dia a dia os conhecimentos adquiri
 - Desenvolvimento de Software  
 - Desenvolvimento Web  
 
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight)
-
----
-
 ## 🎯 Objetivo
 
 Meu objetivo é crescer continuamente na área de tecnologia, desenvolver soluções úteis, adquirir experiência prática e me tornar um profissional cada vez mais qualificado em desenvolvimento de software e infraestrutura de TI.
